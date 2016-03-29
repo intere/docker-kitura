@@ -1,3 +1,3 @@
 [submodule "docker/kitura-ubuntu-docker"]
 	path = docker/kitura-ubuntu-docker
-	url = git@github.com:IBM-Swift/kitura-ubuntu-docker.git
+	url = git@github.com:intere/kitura-ubuntu-docker.git
